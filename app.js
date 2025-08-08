@@ -1,1 +1,1 @@
-*archivo dinamizador*
+//archivo dinamizador
